@@ -1,11 +1,16 @@
 #include<stdio.h>
 int main()
 {
-int num1=4,num2=6;
-while(num1>num2)
-{
-    printf("hello\n");
-}
-printf("End\n");
+
+    int i=0;
+    while(i<10)
+    {
+        printf("%d bangladesh is a small country\n",i);
+        i++;
+        
+    }
+
+    printf("End");
+
     return 0;
 }

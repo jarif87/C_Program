@@ -1,1 +1,1 @@
-int first_array[]={1,2,3,11,14};
+printf("Age is %d\n",student_info.age);
